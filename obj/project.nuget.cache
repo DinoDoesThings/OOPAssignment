@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHedkQpQ6ew=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\OneDrive - Swinburne Sarawak\\Pandora's Box\\OOP\\OOPAssignment\\OOPAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
